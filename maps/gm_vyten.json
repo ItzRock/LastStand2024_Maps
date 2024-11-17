@@ -1,0 +1,961 @@
+{
+	"spawnrate": 0.8,
+	"bombs" : { 
+        "large" : "gb5_heavy_b_1000lb",
+        "normal" : "gb5_heavy_b_t12",
+        "carpet" : "gb5_medium_b_500lb",
+        "nuke" : "gb5_nuclear_fatman"
+    },
+	"freeze_props" : false,
+    "zone_radius" : 40000,
+	"lobby_spawns": [
+		{
+			"nameIndex": 9.0,
+			"angle": "{0 -90 0}",
+			"position": "[16172 16169 -14515]"
+		},
+		{
+			"nameIndex": 9.0,
+			"angle": "{0 -90 0}",
+			"position": "[16051 16127 -14525]"
+		},
+		{
+			"nameIndex": 9.0,
+			"angle": "{0 -90 0}",
+			"position": "[15877 16096 -14535]"
+		},
+		{
+			"nameIndex": 9.0,
+			"angle": "{0 -90 0}",
+			"position": "[15756 16063 -14542]"
+		},
+		{
+			"nameIndex": 9.0,
+			"angle": "{0 -90 0}",
+			"position": "[15661 16036 -14549]"
+		},
+		{
+			"nameIndex": 9.0,
+			"angle": "{0 -90 0}",
+			"position": "[15562 16030 -14556]"
+		},
+		{
+			"nameIndex": 9.0,
+			"angle": "{0 -90 0}",
+			"position": "[15436 16009 -14565]"
+		},
+		{
+			"nameIndex": 9.0,
+			"angle": "{0 -90 0}",
+			"position": "[15325 16008 -14574]"
+		}
+	],
+	"game_spawns": [
+		{
+			"nameIndex": 8.0,
+			"angle": "{0 -90 0}",
+			"position": "[11078 -9654 -15142]"
+		},
+		{
+			"nameIndex": 8.0,
+			"angle": "{0 -90 0}",
+			"position": "[8099 3918 -15496]"
+		},
+		{
+			"nameIndex": 8.0,
+			"angle": "{0 90 0}",
+			"position": "[7784 13723 -15880]"
+		},
+		{
+			"nameIndex": 8.0,
+			"angle": "{0 90 0}",
+			"position": "[-2307 -2930 -15423]"
+		},
+		{
+			"nameIndex": 8.0,
+			"angle": "{0 90 0}",
+			"position": "[-11920 -8733 -15140]"
+		},
+		{
+			"nameIndex": 8.0,
+			"angle": "{0 90 0}",
+			"position": "[1574 -7034 -13640]"
+		},
+		{
+			"nameIndex": 8.0,
+			"angle": "{0 -90 0}",
+			"position": "[-9008 14234 -15120]"
+		},
+		{
+			"nameIndex": 8.0,
+			"angle": "{0 -90 0}",
+			"position": "[-7123 6674 -14776]"
+		}
+	],
+	"events": [
+		{
+			"angle": "{0 -90 0}",
+			"events": [
+				"ALL"
+			],
+			"nameIndex": 6.0,
+			"name": "the South-West Camp",
+			"position": "[-9579 12227 0]"
+		},
+		{
+			"angle": "{0 -90 0}",
+			"events": [
+				"ALL"
+			],
+			"nameIndex": 6.0,
+			"name": "the Riverside Cabin",
+			"position": "[7966 13193 0]"
+		},
+		{
+			"angle": "{0 -90 0}",
+			"events": [
+				"ALL"
+			],
+			"nameIndex": 6.0,
+			"name": "the North Camp",
+			"position": "[8338 5263 0]"
+		},
+		{
+			"angle": "{0 -90 0}",
+			"events": [
+				"ALL"
+			],
+			"nameIndex": 6.0,
+			"name": "the North-East Camp",
+			"position": "[10239 -11041 0]"
+		},
+		{
+			"angle": "{0 -90 0}",
+			"events": [
+				"ALL"
+			],
+			"nameIndex": 6.0,
+			"name": "the Watch Tower",
+			"position": "[1488 -6143 0]"
+		},
+		{
+			"angle": "{0 -90 0}",
+			"events": [
+				"ALL"
+			],
+			"nameIndex": 6.0,
+			"name": "the South-East Camp",
+			"position": "[-11397 -10545 0]"
+		},
+		{
+			"angle": "{0 -90 0}",
+			"events": [
+				"ALL"
+			],
+			"nameIndex": 6.0,
+			"name": "the Center Camp",
+			"position": "[-2083 -1261 0]"
+		},
+		{
+			"angle": "{0 -90 0}",
+			"events": [
+				"AIRDROP"
+			],
+			"nameIndex": 6.0,
+			"name": "the outskirts",
+			"position": "[-748 6761 0]"
+		},
+		{
+			"angle": "{0 -90 0}",
+			"events": [
+				"AIRDROP"
+			],
+			"nameIndex": 6.0,
+			"name": "the outskirts",
+			"position": "[10463 -223 0]"
+		}
+	],
+	"endpoints": [
+		{
+			"nameIndex": 11.0,
+			"angle": "{0 90 0}",
+			"position": "[10115 -10686 -15111]"
+		},
+		{
+			"nameIndex": 11.0,
+			"angle": "{0 90 0}",
+			"position": "[1572 -6969 -13605]"
+		},
+		{
+			"nameIndex": 11.0,
+			"angle": "{0 90 0}",
+			"position": "[-10127 -8675 -15107]"
+		},
+		{
+			"nameIndex": 11.0,
+			"angle": "{0 90 0}",
+			"position": "[-8639 7437 -14229]"
+		},
+		{
+			"nameIndex": 11.0,
+			"angle": "{0 90 0}",
+			"position": "[-9478 12467 -15114]"
+		},
+		{
+			"nameIndex": 11.0,
+			"angle": "{0 90 0}",
+			"position": "[7886 13643 -15864]"
+		},
+		{
+			"nameIndex": 11.0,
+			"angle": "{0 90 0}",
+			"position": "[15542 15607 -14520]"
+		},
+		{
+			"nameIndex": 11.0,
+			"angle": "{0 90 0}",
+			"position": "[7940 4996 -15474]"
+		},
+		{
+			"nameIndex": 11.0,
+			"angle": "{0 90 0}",
+			"position": "[-3249 1376 -15559]"
+		}
+	],
+	"helicopter_spawns": [
+		{
+			"nameIndex": 10.0,
+			"angle": "{0 90 0}",
+			"position": "[-10833 -7085 -15132]"
+		},
+		{
+			"nameIndex": 10.0,
+			"angle": "{0 90 0}",
+			"position": "[13373 -11342 -15047]"
+		},
+		{
+			"nameIndex": 10.0,
+			"angle": "{0 -90 0}",
+			"position": "[12977 11950 -15396]"
+		}
+	],
+	"weapons": {
+		"ammo": [
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 0 0}",
+				"position": "[-8684 7433 -12280]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 0 0}",
+				"position": "[-8685 7454 -12280]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 0 0}",
+				"position": "[8494 3981 -15444]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 0 0}",
+				"position": "[8496 3890 -15444]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 0 0}",
+				"position": "[12067 -10801 -14928]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 0 0}",
+				"position": "[9465 -11764 -15060]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 0 0}",
+				"position": "[10277 -9722 -15065]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 90 0}",
+				"position": "[10502 -9539 -15098]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 90 0}",
+				"position": "[10624 -9767 -15098]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 90 0}",
+				"position": "[11006 -9527 -15098]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 90 0}",
+				"position": "[11131 -9633 -15098]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[7705 14419 -15872]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[7837 5905 -15492]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[72 -1752 -15425]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[91 -1743 -15425]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[117 -1727 -15425]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-2384 -2549 -15275]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[1594 -6952 -13587]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[1575 -6957 -13587]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-10257 -11028 -15060]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-10213 -11025 -15060]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-11935 -8524 -14992]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-9188 12726 -15020]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-9188 12726 -15020]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-9188 12726 -15020]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-9188 12726 -15020]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-9345 12756 -15028]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-11124 12035 -15124]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-7169 6351 -14756]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-7140 6349 -14756]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[4794 6448 -15476]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[10196 38 -15376]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[4570 -4533 -15094]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[-2438 -12356 -15090]"
+			},
+			{
+				"nameIndex": 5.0,
+				"angle": "{0 -90 0}",
+				"position": "[478 -15565 -16162]"
+			}
+		],
+		"medtier": [
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 0 0}",
+				"position": "[-544 -932 -15421]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 0 0}",
+				"position": "[-11926 -8862 -15116]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 0 0}",
+				"position": "[-10210 -11004 -15060]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 0 0}",
+				"position": "[1557 -7059 -14116]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 0 0}",
+				"position": "[8651 -11283 -15058]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 0 0}",
+				"position": "[11760 -10253 -15097]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 0 0}",
+				"position": "[9925 -13056 -15076]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 90 0}",
+				"position": "[7002 5250 -15420]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 90 0}",
+				"position": "[-10512 12389 -15020]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 90 0}",
+				"position": "[-10342 13431 -15072]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 90 0}",
+				"position": "[-9586 7518 -14497]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 90 0}",
+				"position": "[-9586 7518 -14497]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 90 0}",
+				"position": "[-9586 7518 -14497]"
+			},
+			{
+				"nameIndex": 3.0,
+				"angle": "{0 90 0}",
+				"position": "[-9586 7518 -14497]"
+			}
+		],
+		"utility": [
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-1907 -1311 -15366]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-2004 -1319 -15334]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-345 -2266 -15309]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-871 -2650 -15292]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-2359 -2820 -15275]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[8056 13770 -15845]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[8058 13742 -15845]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[8058 13653 -15836]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[8063 13689 -15836]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[6649 4705 -15363]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[7007 4483 -15467]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[8648 5447 -15476]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[8095 4075 -15476]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[10325 -10676 -15067]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[10370 -10691 -15063]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[9170 -9491 -14942]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[9152 -9559 -14894]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[1469 -6880 -13597]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[1485 -6927 -13597]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-10354 -10872 -15049]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-10340 -10877 -15049]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-12634 -11856 -14548]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-12152 -12098 -14548]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-11944 -12802 -14580]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-13649 -11229 -15016]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-11894 -9479 -15105]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-7173 6706 -14756]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-6844 6356 -14756]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-9437 11845 -14928]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-9425 11884 -14928]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-9897 13515 -15085]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-9819 13574 -15088]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-8358 13100 -15063]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-8330 13123 -15086]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[8086 -11209 -14981]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-9720 -6967 -14993]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-9639 -6790 -14993]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-658 -1044 -15314]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[1857 3303 -16051]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-3620 7417 -15151]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[-3970 -5794 -15376]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[2260 -9208 -15106]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[4684 108 -15390]"
+			},
+			{
+				"nameIndex": 1.0,
+				"angle": "{0 90 0}",
+				"position": "[10399 1232 -15377]"
+			}
+		],
+		"pistols": [
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-7078 6531 -14726]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-9249 11802 -15072]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-10536 13342 -15072]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-9472 14242 -15081]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-9571 13852 -15081]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-8677 12457 -15101]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[8004 13861 -15824]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[8833 5264 -15433]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[8829 5215 -15433]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[6675 4623 -15422]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[10942 -10825 -15056]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[1577 -7007 -13597]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-9657 -8370 -15051]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-10591 -9748 -15016]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-11841 -13409 -14580]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-12273 -11825 -14548]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-11504 -4569 -14887]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-933 -2520 -15392]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[237 -1533 -15428]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[5114 1484 -15168]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-9733 -7004 -14993]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-13155 -10857 -14886]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[8819 -9499 -14942]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[-2261 -1252 -15369]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[8065 -12721 -15053]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[7607 6583 -15471]"
+			},
+			{
+				"nameIndex": 2.0,
+				"angle": "{0 0 0}",
+				"position": "[6282 11237 -15349]"
+			}
+		],
+		"hightier": [
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 90 0}",
+				"position": "[-12004 -8502 -15103]"
+			},
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 90 0}",
+				"position": "[1665 -6894 -13600]"
+			},
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 90 0}",
+				"position": "[12245 -11035 -15087]"
+			},
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 90 0}",
+				"position": "[-2398 -2736 -15386]"
+			},
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 0 0}",
+				"position": "[-2052 -1312 -15349]"
+			},
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 0 0}",
+				"position": "[-8637 7433 -12280]"
+			},
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 0 0}",
+				"position": "[-8689 7478 -12280]"
+			},
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 0 0}",
+				"position": "[-9336 12912 -15073]"
+			},
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 -90 0}",
+				"position": "[-9471 14112 -15081]"
+			},
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 -90 0}",
+				"position": "[6949 5586 -15395]"
+			},
+			{
+				"nameIndex": 4.0,
+				"angle": "{0 -90 0}",
+				"position": "[4066 9575 -14025]"
+			}
+		]
+	},
+	"vehicles": [
+		{
+			"nameIndex": 7.0,
+			"angle": "{0 -90 0}",
+			"position": "[7311 5380 -15471]"
+		},
+		{
+			"nameIndex": 7.0,
+			"angle": "{0 -90 0}",
+			"position": "[8304 13551 -15851]"
+		},
+		{
+			"nameIndex": 7.0,
+			"angle": "{0 -90 0}",
+			"position": "[-10944 12510 -15114]"
+		},
+		{
+			"nameIndex": 7.0,
+			"angle": "{0 90 0}",
+			"position": "[-6526 6582 -14775]"
+		},
+		{
+			"nameIndex": 7.0,
+			"angle": "{0 90 0}",
+			"position": "[-2811 -2868 -15390]"
+		},
+		{
+			"nameIndex": 7.0,
+			"angle": "{0 90 0}",
+			"position": "[-10209 -10167 -15102]"
+		},
+		{
+			"nameIndex": 7.0,
+			"angle": "{0 90 0}",
+			"position": "[8971 -12154 -15054]"
+		},
+		{
+			"nameIndex": 7.0,
+			"angle": "{0 90 0}",
+			"position": "[4138 -7345 -15102]"
+		},
+		{
+			"nameIndex": 7.0,
+			"angle": "{0 90 0}",
+			"position": "[-5211 -10451 -15578]"
+		},
+		{
+			"nameIndex": 7.0,
+			"angle": "{0 90 0}",
+			"position": "[6104 -5998 -15565]"
+		}
+	]
+}
