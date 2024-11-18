@@ -1,10 +1,10 @@
 {
-	"spawnrate": 0.6,
+	"spawnrate": 0.9,
 	"bombs" : { 
-        "large" : "gb5_heavy_b_1000lb",
-        "normal" : "gb5_heavy_b_t12",
-        "carpet" : "gb5_medium_b_500lb",
-        "nuke" : "gb5_nuclear_fatman"
+        "large" : "hb_main_moab",
+        "normal" :"hb_main_thermobaric",
+        "carpet" :"hb_main_fab",
+        "nuke" :  "hb_nuclear_littleboy"
     },
 	"freeze_props" : false,
     "zone_radius" : 40000,
